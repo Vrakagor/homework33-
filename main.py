@@ -61,5 +61,3 @@ assert (
 
 gr.delete_student("Taylor")
 print(gr)
-
-gr.delete_student("Taylor")
